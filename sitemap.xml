@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Halaman Utama (Homepage) -->
+  <url>
+    <loc>https://tictact.artdevata.net/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Katalog Event & Konser Live -->
+  <url>
+    <loc>https://tictact.artdevata.net/#katalog</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Kategori Event: Musik -->
+  <url>
+    <loc>https://tictact.artdevata.net/?category=musik</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Kategori Event: Festival -->
+  <url>
+    <loc>https://tictact.artdevata.net/?category=festival</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Kategori Event: Olahraga -->
+  <url>
+    <loc>https://tictact.artdevata.net/?category=olahraga</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Kategori Event: Pameran & Seni -->
+  <url>
+    <loc>https://tictact.artdevata.net/?category=pameran</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Kategori Event: Komedi -->
+  <url>
+    <loc>https://tictact.artdevata.net/?category=komedi</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- City Explorer: Jabodetabek -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=jabodetabek</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Explorer: Jawa Barat -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=jawa-barat</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Explorer: DIY & Jawa Tengah -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=diy-jateng</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Explorer: Jawa Timur -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=jawa-timur</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Explorer: Sumatera -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=sumatera</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Explorer: Kalimantan -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=kalimantan</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Explorer: Sulawesi -->
+  <url>
+    <loc>https://tictact.artdevata.net/?city=sulawesi</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog & Edukasi Ticketing -->
+  <url>
+    <loc>https://tictact.artdevata.net/#blog</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Pusat Bantuan & FAQ -->
+  <url>
+    <loc>https://tictact.artdevata.net/#faq-section</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
